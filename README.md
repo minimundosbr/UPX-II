@@ -1,4 +1,4 @@
-# PROJETO SAÚDE A TODOS
+# PROJETO SAÚDE PARA TODOS
 
 ## Descrição
 O aplicativo esta sendo desenvolvido dentro das plataformas NETBEANS e ECLIPSE utilizando JAVA.
